@@ -11,7 +11,7 @@ A step-by-step guide to mastering DSA from scratch, with right resources and pra
 3. [Key Concepts](#key-concepts)
 4. [Practice Platforms](#practice-platforms)
 5. [Additional Resources](#additional-resources)
-6. [Progress Tracking](#progress-tracking)
+6. [Progress Tracking](#daily-goals)
 
 ---
 
@@ -66,7 +66,7 @@ A step-by-step guide to mastering DSA from scratch, with right resources and pra
 
 ---
 
-## Key Concepts (2024 Updates)
+## Key Concepts 
 1. [Exercism](https://exercism.org/tracks/javascript/concepts): JavaScript DSA exercises with mentor feedback.  
 2. **Visualization Tools**:  
    - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) (updated 2024).  
